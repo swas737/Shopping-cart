@@ -1,0 +1,177 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "/imgs/banana.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 6,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 7,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 8,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 9,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 10,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 11,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 12,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 13,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 14,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 15,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 16,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 17,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 18,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 19,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 20,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 21,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 22,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 23,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 24,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 25,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 26,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 27,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 28,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 29,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 30,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 31,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },{
+      "id": 32,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },{
+      "id": 33,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },{
+      "id": 34,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    }
+  ]
